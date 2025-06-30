@@ -1,7 +1,7 @@
  Hi there 👋
-📊Department of Statistics| @aueb.gr
-💻CF7-STUDENT
-🏠 Based in Athens
+📊 Department of Statistics | @aueb.gr  
+💻 CF7-STUDENT  
+🏠 Based in Athens  
 📩 Contact me: thomas99arv@gmail.com
 
 
