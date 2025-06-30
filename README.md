@@ -1,4 +1,4 @@
- Hi there 👋
+## Hi there 👋  
 📊 Department of Statistics | @aueb.gr  
 💻 CF7-STUDENT  
 🏠 Based in Athens  
